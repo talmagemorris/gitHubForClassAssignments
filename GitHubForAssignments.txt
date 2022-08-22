@@ -1,0 +1,5 @@
+ GitHubForAssignments.txt
+
+Talmage Morris 22AUG2022
+
+I will be manually downloading and uploading files on GitHub without cloning the repository.
